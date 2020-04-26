@@ -4540,7 +4540,6 @@ By microbuilder.eu&lt;/p&gt;</description>
 <part name="BOARD1" library="SPCoast" deviceset="BOARD" device="80X100"/>
 <part name="P+6" library="SparkFun" deviceset="VCC" device=""/>
 <part name="P+7" library="SparkFun" deviceset="VCC" device=""/>
-<part name="FRAME2" library="SparkFun" deviceset="FRAME-LETTER" device=""/>
 <part name="CON2" library="SPCoast" deviceset="CONNECTOR-GROVE-4P-2.0" device="-3470130P1"/>
 <part name="CON3" library="SPCoast" deviceset="CONNECTOR-GROVE-4P-2.0" device="-3470130P1"/>
 <part name="FID1" library="SPCoast" deviceset="FIDUCIAL" device=""/>
@@ -4963,21 +4962,6 @@ Bits 2 &amp; 3  (&amp;0xC)</text>
 <label x="119.38" y="106.68" size="1.016" layer="95"/>
 </segment>
 </net>
-</nets>
-</sheet>
-<sheet>
-<plain>
-<text x="152.4" y="27.94" size="3.81" layer="104">CMRI Breakout</text>
-<text x="198.12" y="27.94" size="3.81" layer="104">RJ45 adapter</text>
-<text x="236.22" y="7.62" size="3.81" layer="104">v3.1</text>
-</plain>
-<instances>
-<instance part="FRAME2" gate="G$1" x="0" y="0"/>
-<instance part="FRAME2" gate="G$2" x="147.32" y="0"/>
-</instances>
-<busses>
-</busses>
-<nets>
 </nets>
 </sheet>
 </sheets>
