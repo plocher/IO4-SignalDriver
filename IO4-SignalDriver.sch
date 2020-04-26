@@ -4557,7 +4557,7 @@ By microbuilder.eu&lt;/p&gt;</description>
 <text x="174.244" y="136.398" size="1.778" layer="104" rot="R90">R</text>
 <text x="149.098" y="26.924" size="5.08" layer="91">SPCoast</text>
 <text x="149.098" y="6.858" size="2.54" layer="91">Signal Control Circuit</text>
-<text x="237.236" y="5.842" size="5.08" layer="91">1.8</text>
+<text x="237.236" y="5.842" size="5.08" layer="91">2.0</text>
 <text x="60.96" y="53.34" size="3.81" layer="91" rot="R90">5V</text>
 <text x="72.644" y="14.224" size="2.54" layer="104">0b00 = GREEN
 0b01 = RED
