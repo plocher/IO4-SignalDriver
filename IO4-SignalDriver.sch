@@ -4924,18 +4924,18 @@ By microbuilder.eu&lt;/p&gt;</description>
 <part name="R5" library="SPCoast" deviceset="R*" device="0805-RES" value="330R"/>
 <part name="R6" library="SPCoast" deviceset="R*" device="0805-RES" value="330R"/>
 <part name="R4" library="SPCoast" deviceset="R*" device="0805-RES" value="330R"/>
-<part name="CON4" library="SparkFun" deviceset="M04" device="SCREW_LOCK"/>
-<part name="CON5" library="SparkFun" deviceset="M04" device="SCREW_LOCK"/>
+<part name="CON4" library="SparkFun" deviceset="M04" device="SCREW_LOCK" value="3.5mm"/>
+<part name="CON5" library="SparkFun" deviceset="M04" device="SCREW_LOCK" value="3.5mm"/>
 <part name="RN1" library="resistor-sil" deviceset="G04R" device="" value="4k7"/>
-<part name="J1" library="SPCoast" deviceset="CONNECTOR-RJ25" device="-6P6C"/>
+<part name="J1" library="SPCoast" deviceset="CONNECTOR-RJ25" device="-6P6C" value="RJ12/6"/>
 <part name="P+5" library="SparkFun" deviceset="VCC" device=""/>
 <part name="GND4" library="SparkFun" deviceset="GND" device=""/>
-<part name="CON1" library="SPCoast" deviceset="CONNECTOR-RJ45" device="-FRONT"/>
+<part name="CON1" library="SPCoast" deviceset="CONNECTOR-RJ45" device="-FRONT" value="RJ45"/>
 <part name="BOARD1" library="SPCoast" deviceset="BOARD" device="80X100"/>
 <part name="P+6" library="SparkFun" deviceset="VCC" device=""/>
 <part name="P+7" library="SparkFun" deviceset="VCC" device=""/>
-<part name="CON2" library="SPCoast" deviceset="CONNECTOR-GROVE-4P-2.0" device="-3470130P1"/>
-<part name="CON3" library="SPCoast" deviceset="CONNECTOR-GROVE-4P-2.0" device="-3470130P1"/>
+<part name="CON2" library="SPCoast" deviceset="CONNECTOR-GROVE-4P-2.0" device="-3470130P1" value="2mm"/>
+<part name="CON3" library="SPCoast" deviceset="CONNECTOR-GROVE-4P-2.0" device="-3470130P1" value="2mm"/>
 <part name="FID-LR" library="SPCoast" deviceset="FIDUCIAL" device=""/>
 <part name="FID-UL" library="SPCoast" deviceset="FIDUCIAL" device=""/>
 <part name="P1" library="SPCoast" deviceset="R-POTENTIOMETER" device="P-3319" value="500R"/>
